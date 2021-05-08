@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">COVID Status</string>
+    <string name="edittext_search">Nombre del pais</string>
+    <string name="imageview_flag">Imagen de la bandera</string>
+</resources>
